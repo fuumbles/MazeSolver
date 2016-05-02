@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "assignment2_datastructures", "assignment2_datastructures\assignment2_datastructures.vcxproj", "{BEBA8E90-D172-4F3B-B799-30EEE054FD45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEBA8E90-D172-4F3B-B799-30EEE054FD45}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BEBA8E90-D172-4F3B-B799-30EEE054FD45}.Debug|Win32.Build.0 = Debug|Win32
+		{BEBA8E90-D172-4F3B-B799-30EEE054FD45}.Release|Win32.ActiveCfg = Release|Win32
+		{BEBA8E90-D172-4F3B-B799-30EEE054FD45}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
